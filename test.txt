@@ -11,3 +11,6 @@ $ npm install -g cnpm --registry=https://registry.npm.taobao.org
  cnpm 命令来安装模块了：
 
 $ cnpm install [name]
+
+项目案例
+https://www.cnblogs.com/sweeeper/p/8652539.html
