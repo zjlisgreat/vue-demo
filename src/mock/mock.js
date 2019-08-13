@@ -4,7 +4,7 @@ const Mock = require('mockjs')
 //     'id|+1': 1
 //   }]
 // })
-
+// https://www.cnblogs.com/orange2013/p/10520632.html
 // console.log(JSON.stringify(data, null, 4))
 
 const Random = Mock.Random
